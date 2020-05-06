@@ -1,0 +1,43 @@
+[All endpoints are just for POST requests]
+Here are the endpoint URLs and sample JSON input data.
+	- NACM SE
+	https://cpsbureau.azurewebsites.net/bureaumgr-api/v1/nacmse/login
+	{
+		"AccessCode": "3KSF5XML,975",
+		"UserRef": ""
+	}
+	https://cpsbureau.azurewebsites.net/bureaumgr-api/v1/nacmse/company-lookup
+	{
+		"ValidationKey": "IdCWy0@6",
+		"CompanyName": "JM ESCOE FORESTRY LLC",
+		"City": "BOGART",
+		"State": "GA"
+	}
+	https://cpsbureau.azurewebsites.net/bureaumgr-api/v1/nacmse/report-detail
+	{
+		"ValidationKey": "IdCWy0@6",
+		"CompanyNACMID": "12011523",
+		"ReturnHTML": "N",
+		"Options": "score"
+	}
+
+	- NACM
+	We can use the same JSON format for the input for NACM as NACM SE,  just the login credential will need to be replaced.
+	https://cpsbureau.azurewebsites.net/bureaumgr-api/v1/nacm/login
+	https://cpsbureau.azurewebsites.net/bureaumgr-api/v1/nacm/company-lookup
+	https://cpsbureau.azurewebsites.net/bureaumgr-api/v1/nacm/report-detail
+
+	- ICE
+	https://cpsbureau.azurewebsites.net/bureaumgr-api/v1/ice/SubmitCreditRequest
+	{
+		"UserID": "icedirect@nutrien.com",
+		"Password": "QMBV3D46",
+		"CompanyId": 1,
+		"AccountName": "SPUTTLE TRADING LLC PRNT",
+		"BusAddr1": "107 PINE NEEDLE DR",
+		"BusCity": "SELMA",
+		"BusState": "AL",
+		"BusZipCode": "36701",
+		"BusPhone": ""
+	}
+

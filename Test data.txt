@@ -1,0 +1,81 @@
+Company Name	City	State
+JM ESCOE FORESTRY LLC	BOGART	GA
+FORK L ENTERPRISES, LLC	NORWOOD	NC
+K POP ACRES LLC PRNT	JESUP	GA
+R. HOKE SMITH FARMS LP	NORTH MYRTLE BEACH	SC
+RICHARD TURNER FARM LLC	GALIVANTS FERRY	SC
+
+
+
+
+Company Name	City	State
+BUDDY'S AG. SERVICES INC	MYAKKA CITY	FL
+POPLAR POINT FARMS, LLC	MOUNTAIN HOME	ID
+M&V FARM & RANCH LLC	CHESTER	MT
+LATCHKEY VINEYARDS LLC	PORTLAND	OR
+LAZY R FARMS LLC	TOUCHET	WA
+
+
+
+
+Company Name	Address	City	State	Zip
+SPUTTLE TRADING LLC PRNT	107 PINE NEEDLE DR	SELMA	AL	36701
+JAMREL FARMS, LLC PRNT	P.O. BOX 508	STAR CITY	AR	71667
+TRABEAUX FARMS INC PRNT	8284 ARBROTH RD	BUECHE	LA	70729
+M.A. WENDOLOWSKI FARM LLC	131 PROSPECT ST	HATFIELD	MA	01038
+BAR O LAND AND CATTLE LLC	315 NW 2ND	SHATTUCK	OK	73858
+
+
+
+
+
+State	NACM Report
+Alabama	ICE
+Arizona	National
+Arkansas	ICE
+California	National
+Colorado	ICE
+Connecticut	ICE
+Delaware	ICE
+Florida	National
+Georgia	Southeast
+Hawaii	National
+Idaho	National
+Illinois	ICE
+Indiana	ICE
+Iowa	ICE
+Kansas	ICE
+Kentucky	ICE
+Louisiana	ICE
+Maine	ICE
+Maryland	ICE
+Massachusetts	ICE
+Michigan	ICE
+Minnesota	ICE
+Mississippi	ICE
+Missouri	ICE
+Montana	National
+Nebraska	ICE
+Nevada	National
+New Hampshire	ICE
+New Jersey	ICE
+New Mexico	National
+New York	ICE
+North Carolina	Southeast
+North Dakota	ICE
+Ohio	ICE
+Oklahoma	ICE
+Oregon	National
+Pennsylvania	ICE
+Rhode Island	ICE
+South Carolina	Southeast
+South Dakota	ICE
+Tennessee	ICE
+Texas	ICE
+Utah	National
+Vermont	ICE
+Virginia	ICE
+Washington	National
+West Virginia	ICE
+Wisconsin	ICE
+Wyoming	National
